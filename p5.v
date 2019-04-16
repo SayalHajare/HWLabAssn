@@ -1,0 +1,1 @@
+// Verify the distributive law over addition operator and multiplication operator. Note: Use booth's multiplier for performing the multiplication.

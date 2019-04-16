@@ -1,0 +1,2 @@
+//  a.    Write structural Verilog code to implement Mealy and Moore FSM to find if the input contains '1001'. For example, if the input is 00101000, the output should be 0. If the input is 00100101, the output should be 1.
+//             b.    Implement the above Mealy and Moore FSM using behavioral Verilog code.
